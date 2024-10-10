@@ -8,14 +8,17 @@ const TAB_DATA = [
     title: "Skills",
     id: "skills",
     content: (
-      <ul className="list-disc pl-2">
-        <li>Node.js</li>
-        <li>Express</li>
-        <li>PostgreSQL</li>
-        <li>Sequelize</li>
+      <div>
+        <ul className="list-disc pl-2">
+        <li>NodeJS</li>
+        <li>ExpressJS</li>
+        <li>MySql</li>
+        <li>NextJS</li>
+        <li>MongoDB</li>
         <li>JavaScript</li>
-        <li>React</li>
+        <li>ReactJS</li>
       </ul>
+      </div>
     ),
   },
   {
