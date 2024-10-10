@@ -22,11 +22,13 @@ const HeroSection = () => {
             <br></br>
             <TypeAnimation
               sequence={[
-                "Adnan",
-                1000,
-                "Web Developer",
-                1000,
                 "Full Stack Developer",
+                1000,
+                "MERN Stack Expert",
+                1000,
+                "Backend with Node.js",
+                1000,
+                "Frontend with React.js",
                 1000,
               ]}
               wrapper="span"
@@ -35,7 +37,9 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Experienced in MongoDB, Express, React, and Node.js, delivering robust web applications, adhering to coding standards and best practices.
+            Experienced in MongoDB, Express, React, and Node.js, delivering
+            robust web applications, adhering to coding standards and best
+            practices.
           </p>
           <div>
             <Link
