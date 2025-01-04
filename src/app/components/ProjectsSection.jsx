@@ -7,30 +7,30 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
-    description: "Project 1 description",
+    title: "NextJS Ecommerce Website",
+    description: "Build an ecommerce website Using nextJS.",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/adnanfrd/Ayurvedic-Herbal-Products",
+    previewUrl: "https://www.ayurvedicherbalproducts.com/",
   },
   {
     id: 2,
-    title: "Potography Portfolio Website",
-    description: "Project 2 description",
+    title: "GYM Portfolio Website",
+    description: "Build a Gym website Using Mern Stack.",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/adnanfrd/gym-application",
+    previewUrl: "https://adnangymapp.netlify.app/",
   },
   {
     id: 3,
-    title: "E-commerce Application",
-    description: "Project 3 description",
+    title: "Hospital Management App",
+    description: "Build a Hospital Management App Using Mern Stack.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/adnanfrd/Hospital-App",
+    previewUrl: "https://adnan-hospital-app.vercel.app/",
   },
   {
     id: 4,
@@ -114,9 +114,9 @@ const ProjectsSection = () => {
               key={project.id}
               title={project.title}
               description={project.description}
-              imgUrl={project.image}
+              imgUrl={project.image} 
               gitUrl={project.gitUrl}
-              previewUrl={project.previewUrl}
+              previewUrl={project.previewUrl} 
             />
           </motion.li>
         ))}

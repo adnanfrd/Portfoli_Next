@@ -27,7 +27,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>BS Computer Science</li>
-        <li>Virtual university of Pakistan</li>
+        <li>Islamia university of Bahawalpur</li>
       </ul>
     ),
   },
@@ -36,8 +36,12 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>Full Stack Development(MERN)</li>
+        <li>Building RESTful APIs with Node.js and Express</li>
+        <li>React JS for Ecommerce: Building a store with React JS</li>
+        <li>Introduction to the MongoDB</li>
+        <li>ChatGPT  &  React: Introduction to the AI Chatbot Revolution</li>
+        <li>Building RESTful APIs with Node.js and Express</li>
       </ul>
     ),
   },
