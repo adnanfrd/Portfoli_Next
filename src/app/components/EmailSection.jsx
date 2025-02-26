@@ -14,7 +14,7 @@ const EmailSection = () => {
     setIsLoading(true);
 
     const data = {
-      access_key: "8e4a6d2f-ebd4-4069-ad12-b45869390214", // Web3Forms API Key
+      access_key: "8e4a6d2f-ebd4-4069-ad12-b45869390214",
       email: e.target.email.value,
       subject: e.target.subject.value,
       message: e.target.message.value,
