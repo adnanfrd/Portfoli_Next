@@ -52,12 +52,12 @@ const projectsData = [
   },
   {
     id: 6,
-    title: "Full-stack Roadmap",
-    description: "Project 5 description",
+    title: "Tentloom Transaction System",
+    description: "Transaction platform for tenants & property owners",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/adnanfrd/Transaction-system",
+    previewUrl: "https://tentloom.vercel.app/",
   },
 ];
 
