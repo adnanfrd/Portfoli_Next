@@ -45,7 +45,7 @@ const HeroSection = () => {
           </p>
           <div>
             <Link
-              href="https://www.linkedin.com/in/adnanfrd/" target="_blank"
+              href="https://www.upwork.com/freelancers/~01cc7a50f6e975aecd?viewMode=1" target="_blank"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
               Hire Me
