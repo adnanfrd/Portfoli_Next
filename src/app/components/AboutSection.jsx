@@ -27,7 +27,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>BS Computer Science</li>
-        <li>Islamia university of Bahawalpur</li>
+        <li>Virtual university of Pakistan</li>
       </ul>
     ),
   },
