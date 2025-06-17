@@ -16,6 +16,15 @@ const projectsData = [
   },
   {
     id: 2,
+    title: "Hand Written Edge Web app",
+    description: "Build a web app using nextJS.",
+    image: "/images/projects/8.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/adnanfrd/HandWritten_Edge",
+    previewUrl: "https://handyedge.vercel.app/",
+  },
+  {
+    id: 3,
     title: "NextJS Ecommerce Website",
     description: "Build an ecommerce website Using nextJS.",
     image: "/images/projects/1.png",
@@ -24,7 +33,7 @@ const projectsData = [
     previewUrl: "https://www.ayurvedicherbalproducts.com/",
   },
   {
-    id: 3,
+    id: 4,
     title: "GYM Portfolio Website",
     description: "Build a Gym website Using Mern Stack.",
     image: "/images/projects/2.png",
@@ -33,7 +42,7 @@ const projectsData = [
     previewUrl: "https://adnangymapp.netlify.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Hospital Management App",
     description: "Build a Hospital Management App Using Mern Stack.",
     image: "/images/projects/3.png",
@@ -42,7 +51,7 @@ const projectsData = [
     previewUrl: "https://adnan-hospital-app.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Voice AI Application",
     description: "Convert voice into structured data effortlessly!",
     image: "/images/projects/4.png",
@@ -51,7 +60,7 @@ const projectsData = [
     previewUrl: "https://voice-ai-app-rust.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     title: "Event Management System",
     description: "Event Booking and Management Platform",
     image: "/images/projects/5.png",
@@ -60,7 +69,7 @@ const projectsData = [
     previewUrl: "https://eventbookingandmanage.vercel.app/",
   },
   {
-    id: 7,
+    id: 8,
     title: "Tentloom Transaction System",
     description: "Transaction platform for tenants & property owners",
     image: "/images/projects/6.png",
